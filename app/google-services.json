@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406683844807",
+    "project_id": "deslimfleet",
+    "storage_bucket": "deslimfleet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406683844807:android:673052ad3d1047ee4e3ee2",
+        "android_client_info": {
+          "package_name": "com.rubennicolasdiaz.deslimfleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5G70Z-OwrDEsJxAhptWI2E2xkEfpr9_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
